@@ -62,6 +62,7 @@
 
 ## 参考资料
 [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](http://wiki.ros.org/Books/Programming_Robots_with_ROS)
+
 我们对本书第12章中所提到的算法进行了改进，用于此次挑战赛
 
 ## 致谢
